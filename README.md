@@ -1,9 +1,9 @@
 Mobile Number Origin Tracking Script<br/>
 <br/>
 A Python Script that utilizes the powerful Libraries like :<br/>
-    phonenumber<br/>
-    folium<br/>
-    opencage<br/>
+     &nbsp; phonenumber<br/>
+    &nbsp;  folium<br/>
+    &nbsp; opencage<br/>
 For sake of identifying the Country of origin of a  Mobile Phone Number<br/>
 It shows you the Country associated with that particular Phone Number <br/>
 And displays it over a map <br/>
